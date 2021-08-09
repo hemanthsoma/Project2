@@ -18,5 +18,5 @@ Create a Spark Application that processes Twitter data - Your project 2 pitch sh
 
 # API & Required Modules
 
-- Twitter API - for Building Apps and analyzing on twitter streaming data
+- Twitter API - for Building Apps and analyzing on twitter streaming & historical data
 - Tweepy - is an open source Python package that gives you a very convenient way to access the Twitter API with Python.
