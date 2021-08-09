@@ -15,3 +15,8 @@ Create a Spark Application that processes Twitter data - Your project 2 pitch sh
 
 - Analyze the real time streaming tweets on famous person ( politician or actors )
 - Retrieving the trending hashtags of a famous personality
+
+# API & Required Modules
+
+- Twitter API - for Building Apps and analyzing on twitter streaming data
+- Tweepy - is an open source Python package that gives you a very convenient way to access the Twitter API with Python.
