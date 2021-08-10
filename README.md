@@ -15,7 +15,7 @@ Create a Spark Application that processes Twitter data - Your project 2 pitch sh
 
 - Analyze the real time streaming tweets on famous person ( politician or actors )
 - Retrieving the trending hashtags of a famous personality
-- Get the location details by who retweets the hashtag since a particular date
+- To fetch the location of a person who has retweeted on particular hashtag.
 
 # API & Required Modules
 
