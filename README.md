@@ -6,6 +6,7 @@ Create a Spark Application that processes Twitter data - Your project 2 pitch sh
 
 - Apache Spark
 - Spark SQL
+- Spark Web UI
 - Git + GitHub
 
 # Problem Statement
