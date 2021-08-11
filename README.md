@@ -6,9 +6,6 @@ Create a Spark Application that processes Twitter data - Your project 2 pitch sh
 
 - Apache Spark
 - Spark SQL
-- YARN
-- HDFS and/or S3
-- Scala 2.12.10
 - Git + GitHub
 
 # Problem Statement
