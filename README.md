@@ -25,4 +25,4 @@ Create a Spark Application that processes Twitter data - Your project 2 pitch sh
 
 # Reference links
 
-- [Elon Musk Data Set  - 30-01-2015 to 14-07-2020](https://www.kaggle.com/vidyapb/elon-musk-tweets-2015-to-2020/version/1)
+- [Elon Musk's Data Set  - 30-01-2015 to 14-07-2020](https://www.kaggle.com/vidyapb/elon-musk-tweets-2015-to-2020/version/1)
