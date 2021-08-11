@@ -12,11 +12,11 @@ Create a Spark Application that processes Twitter data - Your project 2 pitch sh
 
 # Problem Statement
 
+- Historical Data Analysis on "ELON MUSK" from 30-01-2015 to 14-07-2020
 - Analyze the real time streaming tweets on famous person ( politician or actors )
 - Retrieving the trending hashtags of a famous personality
 - To fetch the location of a person who has retweeted on particular hashtag.
 - Fetching the user details who retweeted with the name "ELON MUSK"
-- Historical Data Analysis on "ELON MUSK" from 30-01-2015 to 14-07-2020
 
 # API & Required Modules
 
