@@ -11,7 +11,7 @@ We build a simple application that reads online streams from Twitter using Pytho
 # Technologies used
 
 - Apache Spark
-- Spark SQL
+- pyspark
 - Spark Web UI
 - Python
 - Git + GitHub
